@@ -9,7 +9,7 @@ function largestSumFactor(num) {
 // Hence, you dont need to divide by even numbers. Besides, you will not have a 
 // factor bigger than half of its value."
 
-  // start div variable with 2, it's the smallest prime number
+  // start div variable with 2, it's the smallest prime number 
   var div = 2;
   // store prime factors in factor array
   var factor = [];
