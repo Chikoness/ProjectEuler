@@ -9,7 +9,7 @@ function multiples(a, b, c) {
   // b = multiple no.2
   // c = below 1000, or any other value
   
-  // var to store sum
+  // var to store sum 
   var sum = 0;
 
   for (var i = 0; i < c; i++) {
