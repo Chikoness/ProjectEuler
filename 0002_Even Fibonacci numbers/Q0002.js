@@ -10,7 +10,7 @@ function evenFiboNum(n) {
   var sum = 0;
 
   while (current <= n) {
-    // find even numbers
+    // find even numbers  
     if (current % 2 == 0) {
       // if it is an even number, add into sum
       sum += current;
