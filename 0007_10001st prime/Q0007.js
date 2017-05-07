@@ -2,6 +2,7 @@
 // that the 6th prime is 13. What is the 10 001st prime number?
 
 // a function to find out if a number is a prime
+
 function isPrime(n) {
   if (n < 2) {
     return false;
